@@ -1,21 +1,21 @@
 # Massage Menu
 
 ## Our available types of massages!
-- Massage A =
+- Massage A 
 3$
-No cream and no extra time.
+  Cream: No      Extra time: No
 
-- Massage B =
+- Massage B 
 5$
-Cream and no extra time.
+  Cream: Yes   Extra time: No
 
-- Massage C =
+- Massage C 
 8$
-No cream but extra time
+  Cream: No    Extra time: Yes
 
-- Massage D =
+- Massage D 
 10$
-Cream + Extra time!
+  Cream: Yes   Extra time: Yes
 
 ## Reminders
 No extra time means you have 5 min in total.
