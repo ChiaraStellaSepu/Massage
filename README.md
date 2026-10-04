@@ -1,19 +1,19 @@
 # Massage Menu
 
 ## Our available types of massages!
-- Massage A
+- Massage A =
 3$
 No cream and no extra time.
 
-- Massage B
+- Massage B =
 5$
 Cream and no extra time.
 
-- Massage C
+- Massage C =
 8$
 No cream but extra time
 
-- Massage D
+- Massage D =
 10$
 Cream + Extra time!
 
